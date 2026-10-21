@@ -1,0 +1,6 @@
+{
+  "name": "hamarsal",
+  "version": "0.0.1",
+  "description": "[:Hamarsal] is the Repository Manager of [:Volundir][:Hamarr] Ingot System.",
+  "dependencies": ["hamarr"]
+}
