@@ -14,31 +14,31 @@
     },
     {
       "name": "koshtech-base",
-      "description": "[:koshtech][:base] is the home package of [:Volundir][:Apps].",
+      "description": "[:koshtech][:base] is the home package of [:Volundir][:PWA].",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/koshtech-base.git"
     },
     {
       "name": "volundir",
-      "description": "[:Volundir] is the starting package of [:Volundir][:Apps].",
+      "description": "[:Volundir] is the starting package of [:Volundir][:PWA].",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir.git"
     },
     {
       "name": "volundir-bash",
-      "description": "Bash Core System of [:Volundir][:Apps]",
+      "description": "Bash Core System of [:Volundir][:PWA]",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir-bash.git"
     },
     {
       "name": "volundir-help-base",
-      "description": "[:Volundir][:Apps] Base Help System.",
+      "description": "[:Volundir][:PWA] Base Help System.",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir-help-base.git"
     },
     {
       "name": "volundir-ruby",
-      "description": "[:Volundir][:Ruby] is a minimal set of Ruby tools and components for [:Volundir][:Apps].",
+      "description": "[:Volundir][:Ruby] is a minimal set of Ruby tools and components for [:Volundir][:PWA].",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir-ruby.git"
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "volundir-ruby-server",
-      "description": "[:Volundir][:Ruby][:Server] is a minimal Back End Server for [:Volundir][:Apps].",
+      "description": "[:Volundir][:Ruby][:Server] is a minimal Back End Server for [:Volundir][:PWA].",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir-ruby-server.git"
     }
