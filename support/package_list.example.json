@@ -44,7 +44,7 @@
     },
     {
       "name": "volundir-ruby-analytics",
-      "description": "T[Volundir][:Ruby][:Analytics] iIgot adding telemetry routes.",
+      "description": "[:Volundir][:Ruby][:Analytics] Ingot adding telemetry routes.",
       "version": "0.0.1",
       "git_url": "https://github.com/koshtech/volundir-ruby-analytics.git"
     },
